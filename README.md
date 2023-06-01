@@ -1,7 +1,6 @@
 # django-calendar
-Full calendar built using Django. Tutorial part i [here](https://www.huiwenteo.com/normal/2018/07/24/django-calendar.html) and part ii [here](https://www.huiwenteo.com/normal/2018/07/29/django-calendar-ii.html)! :)
 
-# Usage
+## Usage
 Clone this repo, setup virtualenv, install Django
 ```
 git clone https://github.com/huiwenhw/django-calendar
